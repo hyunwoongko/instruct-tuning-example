@@ -1,0 +1,5 @@
+transformers==4.26.0
+trl==0.2.1
+datasets==2.8.0
+wandb=0.13.7
+tqdm
